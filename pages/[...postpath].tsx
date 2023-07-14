@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.highwaycpmrevenue.com/x0tgrkhaxy?key=06e056aeaca1482b8697b274dea0b206/`
+						`https://migrant-male.000webhostapp.com/` + encodeURI(path as string)
 				}`,
 			},
 		};
